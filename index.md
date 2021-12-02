@@ -1,37 +1,63 @@
-## Welcome to GitHub Pages
+<img src="https://sv1.picz.in.th/images/2021/12/03/6UQU5P.jpg" width="300" height="400">
 
-You can use the [editor on GitHub](https://github.com/benznnp/DigitalCv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Nannapat Wongsiricharoen
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## About me
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Name : Nannapat Wongsiricharoen
 
-```markdown
-Syntax highlighted code block
+Nickname : Benz
 
-# Header 1
-## Header 2
-### Header 3
+Date of Birthday : Monday, 5th May 2003
 
-- Bulleted
-- List
+Age : 18 years
 
-1. Numbered
-2. List
+Nationality : Thai.   Race : Thai
 
-**Bold** and _Italic_ and `Code` text
+Address : 10/47 Moo.8 Theconnect  Sukhuvit 107 Road, Amphoe Mueang Samut Prakan,
 
-[Link](url) and ![Image](src)
-```
+Samut Prakan, 10270
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Hobby : Read a book
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/benznnp/DigitalCv/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Education
 
-### Support or Contact
+2010-2021 Saint Joseph Bangna School
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+2021 Thammasat University
+
+
+## Performance
+
+<img src="https://sv1.picz.in.th/images/2021/12/03/6U5ioy.jpg" width="340" height="340">
+
+<img src="https://sv1.picz.in.th/images/2021/12/03/6U5XDv.jpg" width="170" height="250"> <img src="https://sv1.picz.in.th/images/2021/12/03/6U5vkN.jpg" width="170" height="250">
+
+
+## Activity
+
+Colorguard
+
+<img src="https://sv1.picz.in.th/images/2021/12/03/6Uqts8.jpg" width="340" height="230">
+
+<img src="https://sv1.picz.in.th/images/2021/12/03/6UUvPv.jpg" width="170" height="250"> <img src="https://sv1.picz.in.th/images/2021/12/03/6UqNpJ.jpg" width="170" height="250">
+
+
+## Certificate
+
+<img src="https://sv1.picz.in.th/images/2021/12/03/6UqCgW.png" width="340" height="230">
+
+
+## Contact Me
+
+Phone : 0623138228
+
+Call : 021381901
+
+nannapat.wong@dome.tu.ac.th
+
+IG : _benznnp_
+
+Line : bbenznnp
